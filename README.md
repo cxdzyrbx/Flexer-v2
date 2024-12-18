@@ -19,6 +19,12 @@
 
 - [Download .net Runtime](https://download.visualstudio.microsoft.com/download/pr/53e9e41c-b362-4598-9985-45f989518016/53c5e1919ba2fe23273f2abaff65595b/dotnet-runtime-8.0.11-win-x64.exe)
 
+## Showcase
+
+100 % unc ( Supported remote spy )
+
+![Logo](https://cdn.discordapp.com/attachments/1318674960847212685/1318688258682519652/image.png?ex=6763e464&is=676292e4&hm=5e12f853673ca1a25116bbf62790f9f49ea078429ea1fc9b223b57bcb09387c1&)
+
 ## Support
 
 If you found any issues please [Join our Discord](https://discord.gg/getflexer) for chat with Developer ❤
